@@ -1,0 +1,30 @@
+{
+  "name": "passport-ldapjs",
+  "version": "1.0.0",
+  "description": "NodeJS Passport LDAP authentication using ldapjs",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tphuocthai/passport-ldapjs.git"
+  },
+  "keywords": [
+    "passport",
+    "ldap",
+    "ldapjs",
+    "authentication",
+    "auth"
+  ],
+  "author": "Trinh Phuoc Thai <tphuocthai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tphuocthai/passport-ldapjs/issues"
+  },
+  "homepage": "https://github.com/tphuocthai/passport-ldapjs",
+  "dependencies": {
+    "ldapjs": "^0.7.1",
+    "passport-strategy": "^1.0.0"
+  }
+}
