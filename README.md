@@ -6,7 +6,7 @@ Tested with OpenLDAP server and Windows Server 2013 Active Directory
 
 ## Install
 
-  $ npm install passport-ldapjs
+    $ npm install passport-ldapjs
 
 ## Usage
 
