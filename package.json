@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/tphuocthai/passport-ldapjs",
   "dependencies": {
-    "ldapjs": "^0.7.1",
+    "ldapjs": "^2.3.3",
     "passport-strategy": "^1.0.0"
   }
 }
